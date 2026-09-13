@@ -9,4 +9,4 @@ TODO:
 - EM simulation to capture S-param touchstone to be exported to spice eda tool. 
 - Spice simulation for the gm-cells
 
-Credit: [Tuomas Sorakivi](https://www.linkedin.com/in/tuomas-sorakivi-7504612/) for major contribution on gdslayout code, @luighiv from discord for advices on GF180MCU layer mapping, [Volker Mühlhaus](https://linkedin.com/in/volker-m%C3%BChlhaus-4947508) for advices on AWS Palace pipeline setup
+Credit: [Tuomas Sorakivi](https://www.linkedin.com/in/tuomas-sorakivi-7504612/) for major contribution on gdslayout code, [Luighi Vitón Zorrilla](https://linkedin.com/in/luighiviton) for advices on GF180MCU layer mapping, [Volker Mühlhaus](https://linkedin.com/in/volker-m%C3%BChlhaus-4947508) for advices on AWS Palace pipeline setup
